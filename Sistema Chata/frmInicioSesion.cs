@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Sistema_Chata
 {
-    public partial class Form1 : Form
+    public partial class frmInicioSesion : Form
     {
-        public Form1()
+        public frmInicioSesion()
         {
             InitializeComponent();
         }
