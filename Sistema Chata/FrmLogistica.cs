@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace Sistema_Chata
 {
-    public partial class frmPrincipalAdmin : Form
+    public partial class FrmLogistica : Form
     {
-        public frmPrincipalAdmin()
+        public FrmLogistica()
         {
             InitializeComponent();
         }
 
-        private void FrmPrincipalAdmin_Load(object sender, EventArgs e)
+        private void GroupBox3_Enter(object sender, EventArgs e)
         {
 
         }

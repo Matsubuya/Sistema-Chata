@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Sistema_Chata
 {
-    public partial class frmPrincipalAdmin : Form
+    public partial class FrmAsignarUsuario : Form
     {
-        public frmPrincipalAdmin()
+        public FrmAsignarUsuario()
         {
             InitializeComponent();
-        }
-
-        private void FrmPrincipalAdmin_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
